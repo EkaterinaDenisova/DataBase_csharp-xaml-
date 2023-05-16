@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDataBase", "WpfAppDataBase\WpfAppDataBase.csproj", "{A46BFED6-0DAB-4EFF-B6DD-122C938CB0BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject_DB", "TestProject_DB\TestProject_DB.csproj", "{7694932E-ACCB-4AE3-8108-9349B0C6895A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Database", "Setup_Database\Setup_Database.vdproj", "{DE329930-A68F-4AD4-A66D-4D0BDAE51FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46BFED6-0DAB-4EFF-B6DD-122C938CB0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46BFED6-0DAB-4EFF-B6DD-122C938CB0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46BFED6-0DAB-4EFF-B6DD-122C938CB0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46BFED6-0DAB-4EFF-B6DD-122C938CB0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7694932E-ACCB-4AE3-8108-9349B0C6895A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7694932E-ACCB-4AE3-8108-9349B0C6895A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7694932E-ACCB-4AE3-8108-9349B0C6895A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7694932E-ACCB-4AE3-8108-9349B0C6895A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE329930-A68F-4AD4-A66D-4D0BDAE51FA5}.Debug|Any CPU.ActiveCfg = Debug
+		{DE329930-A68F-4AD4-A66D-4D0BDAE51FA5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3834D31-CE46-4202-A946-03034BA9A205}
+	EndGlobalSection
+EndGlobal
