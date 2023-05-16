@@ -6,6 +6,7 @@ namespace TestProject_DB
     [TestClass]
     public class UnitTest_Violators
     {
+
         // тестирование геттеров и сеттеров поля Имя
         [TestMethod]
         public void TestMethodGetName()
